@@ -1,0 +1,23 @@
+# Ambiente Virtual Python
+.venv/
+Lib/
+Scripts/
+pyvenv.cfg
+*.pyc
+__pycache__/
+
+# Arquivos de configuração sensíveis
+.env
+*.conf # Cuidado se você tiver .conf que DEVEM ser commitados
+
+# Arquivos específicos do SO/IDE (Exemplos)
+.vscode/
+.idea/
+*.DS_Store
+active_storage_blobs.md
+action_text_rich_texts.md
+Dicionários.md
+.env
+GITHUB_TOKEN_classic_Token.conf
+GITHUB_TOKEN.conf
+pyvenv.cfg
